@@ -5,6 +5,7 @@
 
 ## 飞鸟机场怎么样？
 
+飞鸟机场是一个全员海外落地的Shadowsocks机场，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！
 
 ## 飞鸟机场优惠码
 
@@ -20,11 +21,13 @@
 
 ## 飞鸟机场机场测速
 
-![FlyingBird-SpeedTest-SZDX](https://github.com/clashdownload/flyingbird/assets/157440626/e6a837d2-113c-4517-a4d9-181b18e9758b)
+<img width="3921" height="8876" alt="FlyingBird-SpeedTest-GXYD-20250905" src="https://github.com/user-attachments/assets/d0b0d2de-a4ca-4905-b48e-e12295d2beff" />
+
 
 ## 飞鸟机场出入口分析
 
-![FlyingBird-Network-Topology-SZDX](https://github.com/clashdownload/flyingbird/assets/157440626/6ac6e5d8-d2c0-414f-a5cf-15ebc0c5ef10)
+<img width="1793" height="9050" alt="FlyingBird-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/7f9a328a-138b-4f85-9b97-5b414ef54a17" />
+
 
 ## 飞鸟机场跑路
 目前飞鸟机场没有跑路，可以放心使用。
